@@ -1,2 +1,5 @@
-Clink on the link provided below to check the project
-https://pratik02071998.github.io/HTML-CSS-and-Javascript-for-Web-Developers/Assignments/Module-2/
+# Module-2 Coding Assignment
+
+# To see the output [CLICK HERE](https://pratik02071998.github.io/HTML-CSS-and-Javascript-for-Web-Developers/Assignments/Module-2)
+
+
