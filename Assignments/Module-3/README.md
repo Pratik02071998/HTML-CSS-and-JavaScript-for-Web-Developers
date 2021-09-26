@@ -1,8 +1,3 @@
-
-
 # Module-3 Coding Assignment
 
-Coursera course: HTML, CSS, and Javascript for Web Developers
-
-# To see the output [CLICK HERE](index.html)
-
+# To see the output [CLICK HERE](https://pratik02071998.github.io/HTML-CSS-and-Javascript-for-Web-Developers/Assignments/Module-3)
